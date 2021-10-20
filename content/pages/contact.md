@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Contact
 sections:
   - type: ContactSection
     title: Contact us
