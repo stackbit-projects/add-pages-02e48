@@ -1,5 +1,5 @@
 ---
-title: This is a new page
+title: Campaign
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
